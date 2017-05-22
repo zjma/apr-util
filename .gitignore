@@ -30,4 +30,9 @@ include/private/apu_config.h.in
 include/private/apu_select_dbm.h
 libaprutil-1.la
 test/Makefile
+xml/expat/conftools/ltmain.sh
+xml/expat/expat_config.h
+xml/expat/expat_config.h.in
+xml/expat/libexpat.la
+xml/expat/libtool
 
